@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javaweb:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-11T17:40:40.035928446Z"
+    description: A Helm chart for Kubernetes
+    digest: 0eb2d4f02a655e986b4c13ff611134c61ac80172a6392e3b19439db597555fd3
+    name: javaweb
+    type: application
+    urls:
+    - https://tammanarajam.github.io/helm/javaweb-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-11T17:40:40.033865352Z"
